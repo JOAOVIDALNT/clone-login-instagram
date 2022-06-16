@@ -6,5 +6,5 @@ Baixei apenas as imagens do repositório base e desenvolvi a tela de login atual
 
 ### Principais diferenças
 A principal diferença é de que eu repliquei a tela padrão de login, sem foto de usuário, com os campos de email e senha e a opção de logar pelo facebook.
-Tentei ser fiel à página atual do instagram, apesar da imagem do banner ser diferente.
+Tentei ser fiel à página atual do instagram, apesar da imagem do banner ser diferente. <br>
 Não tive nenhuma inspiração do projeto base, não assisti os vídeos e me desafiei a fazer por conta própria.
